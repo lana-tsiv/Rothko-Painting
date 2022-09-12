@@ -1,3 +1,3 @@
 # Rothko-Painting
 FreeCodeCamp
-https://lana-tsiv.github.io/Rothko-Painting/
+Deploy: https://lana-tsiv.github.io/Rothko-Painting/
